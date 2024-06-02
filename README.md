@@ -1,6 +1,6 @@
 # mygym
 1st repository
 <br>
-by Tayyab
+<i>by Tayyab</i>
 <br>
 abcd
